@@ -38,7 +38,7 @@ The main advantages of OOP Modules are:
   - separation of concerns,
   - maintainability.
 
-## Note about "requirements.txt"
+## Note about requirements
 Please refer to the "requirements.txt" for any packages that need to be installed to run the program.
 
 ## How to use the program
@@ -99,7 +99,7 @@ Finally, selecting Option 6. Exit in the main menu, quits the program and saves 
 ![Exit program](https://github.com/DANIEL-BOERESCU/codingTasks/assets/164760774/64cf9381-734c-4be5-ae74-d599768c9db3)
 
 ## Credits:
-[HyperionDev / CoGrammar -](https://www.hyperiondev.com/)
+[HyperionDev / CoGrammar](https://www.hyperiondev.com/)
 
 
 
