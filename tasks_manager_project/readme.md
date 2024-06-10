@@ -1,8 +1,12 @@
-Table of contents for the "Task Manager" readme:
-  - Description of the "Task Manager" program
-  - Note about "requirements.txt"
-  - How to use the program
-  - Credits
+# "Task Manager" program
+
+## Table of contents for the "Task Manager" readme:
+  - [Description of the "Task Manager" program](# Project description)
+  - [Note about "requirements.txt"](# Note about "requirements.txt")
+  - [How to use the program](# How to use the program)
+  - [Credits](# Credits)
+
+## Project description
 
 I am building a "Task Manager" program project using OOP modules.
 
@@ -34,9 +38,10 @@ The main advantages of OOP Modules are:
   - separation of concerns,
   - maintainability.
 
+## Note about "requirements.txt"
 Please refer to the "requirements.txt" for any packages that need to be installed to run the program.
 
-How to use the program
+## How to use the program
 
 Main.py file will prompt these options when it is accessed/ run:
 
@@ -93,8 +98,8 @@ Finally, selecting Option 6. Exit in the main menu, quits the program and saves 
 
 ![Exit program](https://github.com/DANIEL-BOERESCU/codingTasks/assets/164760774/64cf9381-734c-4be5-ae74-d599768c9db3)
 
-Credits:
-![HiperionDev / CoGrammar -](https://www.hyperiondev.com/)
+## Credits:
+[HiperionDev / CoGrammar -](https://www.hyperiondev.com/)
 
 
 
