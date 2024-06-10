@@ -1,10 +1,10 @@
 # "Task Manager" program
 
 ## Table of contents for the "Task Manager" readme:
-  - [Description of the "Task Manager" program](# Project description)
-  - [Note about "requirements.txt"](# Note about "requirements.txt")
-  - [How to use the program](# How to use the program)
-  - [Credits](# Credits)
+  - [Description of the "Task Manager" program](#Project-description)
+  - [Note about "requirements.txt"](#Note-about-"requirements.txt")
+  - [How to use the program](#How-to-use-the-program)
+  - [Credits](#Credits)
 
 ## Project description
 
